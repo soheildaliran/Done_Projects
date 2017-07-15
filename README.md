@@ -7,7 +7,7 @@
 
 ***
 
-2. [CSP](CSP.py)
+2. [CSP](csp.py)
 
 ![CSP](./pic/CSP.jpg)
 
