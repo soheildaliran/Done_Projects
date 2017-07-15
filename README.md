@@ -6,5 +6,5 @@
 
 
 2. CSP
-![CSP](https://raw.githubusercontent.com/soheildaliran/Done_Projects/blob/master/pic/CSP.jpg)
+![CSP](./pic/CSP.jpg)
 
