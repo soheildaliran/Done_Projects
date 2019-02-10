@@ -1,5 +1,5 @@
-# Done_Projects
-### My Done Project , Not for Myself
+# University Projects
+### Some of my past unversity projects
 
 1. [N_HORSE_GENETIC_ALG](N_HORSE_GENETIC_ALG.py)
 
